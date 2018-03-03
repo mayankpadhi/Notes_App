@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btmLayout"
+        android:background="#FFFFFF"
+        android:divider="#D3D3D3"
+        android:dividerHeight="1sp" 
+        android:footerDividersEnabled="true" />
+
+    <LinearLayout
+        android:id="@+id/btmLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp">
+
+    	<Button
+    	    android:id="@+id/addnotebutton"
+    	    android:layout_width="56dp"
+    	    android:layout_height="56dp"
+    	    android:background="@drawable/create_note" />
+
+    </LinearLayout>
+    
+    	
+</RelativeLayout> 

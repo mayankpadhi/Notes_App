@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="app_name">Notes</string>
+    <string name="delete_menu_noteedit">Delete</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_delete">Delete Item</string>
+    <string name="no_title">No Title</string>
+    <string name="save_menu_noteedit">Save</string>
+    <string name="title">Title : </string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>
