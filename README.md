@@ -8,7 +8,7 @@ The future of this app includes features like backup, rich text display, option 
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankpadhi/Notes_App/master/assets/menu.png?token=AQVDlmHxyiYBoi_qYwGUniXTn8LdS5Emks5apDyrwA%3D%3D" width="100"/>
-  <img src="https://raw.githubusercontent.com/mayankpadhi/Notes_App/master/assets/sampletext.png?token=AQVDlvDBWLZvjx2tumk-EQizfgPONfoGks5apD2YwA%3D%3D" width="100"/>
+  <img src="https://raw.githubusercontent.com/mayankpadhi/Notes_App/master/assets/menu.png?token=AQVDlmHxyiYBoi_qYwGUniXTn8LdS5Emks5apDyrwA%3D%3D" width="250"/>
+  <img src="https://raw.githubusercontent.com/mayankpadhi/Notes_App/master/assets/sampletext.png?token=AQVDlvDBWLZvjx2tumk-EQizfgPONfoGks5apD2YwA%3D%3D" width="250"/>
 </p>
 
